@@ -23,6 +23,7 @@ This script is designed to set the correct permissions for files and directories
 3. **Run the script**:
    
    cd /path/to/your/wordpress/installation
+
    ./wordpress-fix-permissions.sh
 
 ## Permissions Set by the Script
@@ -34,6 +35,7 @@ This script is designed to set the correct permissions for files and directories
 ## Example
 
 cd /var/www/wordpress
+
 ./wordpress-fix-permissions.sh
 
 ## Notes
